@@ -1,0 +1,71 @@
+<resources>
+
+    <string name="terms" translatable="false">Our app only provides links to official websites and/or YouTube channels that are publicly available. The content displayed within our app is not hosted on our servers, and we do not claim ownership or responsibility for any of the content. We do not intend to infringe any copyright, and we make every effort to ensure that our app only links to legitimate sources. However, we cannot guarantee the accuracy or legality of the content provided by these external sources.\n\nIf you are a copyright holder and believe that any content provided through our app infringes your copyright, please contact us at [insert email address] with a detailed description of the alleged infringement. We will promptly investigate your claim and, if appropriate, remove the offending content from our app.\n\nPlease note that our app is provided on an "as is" basis, and we make no representations or warranties of any kind, express or implied, regarding the availability, accuracy, reliability, suitability, or performance of our app or the content provided through it. By using our app, you agree that we will not be liable for any damages, losses, or other harm arising out of your use of our app or reliance on any of the content provided through it. Also you can read our Terms and conditions and Privacy Policy.\n</string>
+
+
+    <string name="app_name">Aflam Maroc</string>
+    <string name="admob_app_id">ca-app-pub-9242245693332067~2947274145</string>
+    <string name="admob_ad_unit_id">ca-app-pub-9242245693332067/2059937576</string>
+    <string name="admob_interestial_id">ca-app-pub-9242245693332067/9544472085</string>
+
+
+    <string name="facebook_interstial_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="facebook_banner_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+    <!--<string name="facebook_interstial_id">481560817389357_481562164055889</string>
+    <string name="facebook_banner_id">481560817389357_481560997389339</string>-->
+
+
+    <string name="appodeal_key">77ef1ac148a4d39303882a53f1eaec96fdb1269f8018ece3</string>
+
+    <string name="app_lovin_sdk">BW8csCTp1cFqFIvVoLCwoaLtnUaDThDlCMM3ZrsaS6OhPIBBdO6Q-SHlxtyUTAEmXap5Qeftm2T9LlLz7RO5uf</string>
+    <string name="app_lovin_banner_unit_id">b6cae20a8f518993</string>
+    <string name="app_lovin_interstitial_unit_id">fcc2c7a6dc61a442</string>
+
+    <string name="app_lovin_banner_med_unit_id">b6cae20a8f518993</string>
+    <string name="app_lovin_interstitial_med_unit_id">fcc2c7a6dc61a442</string>
+
+
+    <string name="huawei_banner_ad_id">testw6vs28auh3</string>
+    <string name="huawei_interstitial_video_ad_id">testb4znbuh3n2</string>
+    <string name="huawei_interstitial_image_ad_id">teste9ih9j0rc3</string>
+
+    <string name="flurry_apy_key">R78WJ87SM4GXXQ6FS59C</string>
+
+    <string name="adx_app_id">77842750</string>
+    <string name="adx_banner_id">float-13547</string>
+    <string name="adx_interstitial_id">float-13548</string>
+
+
+    <string name="facebook_url">http://bit.ly/MarocTVFBpagele</string>
+    <string name="privacy_url">https://bit.ly/aflamPP</string>
+
+    <string name="info_text">Nothing interesting here</string>
+    <string name="open">Open</string>
+    <string name="close">close</string>
+    <string name="rate_us">Rate us</string>
+    <string name="thank_you_for_rating">Thank you for the rating</string>
+    <string name="rate_title">Rate our application</string>
+    <string name="rate_text">Your opinion is important for us!</string>
+    <string name="rate">Rate</string>
+    <string name="play">Play</string>
+    <string name="sorry_the_content_cannot_be_loaded">Sorry the content cannot be loaded</string>
+    <string name="search">Search</string>
+    <string name="video_error_title">Playback error</string>
+    <string name="video_error_text">We are sorry, we cannot play the video right now. Please try again later</string>
+    <string name="ok">OK</string>
+    <string name="internet_problem_title">Internet problem</string>
+    <string name="internet_problem_text">It looks like you are not connected to internet</string>
+    <string name="connect_now">Connect now</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="visit_us_on_facebook"><u>Visit us on Facebook</u></string>
+    <string name="privacy_policy"><u>Privacy policy</u></string>
+    <string name="facebook_app_id">1178697846105714</string>
+    <string name="fb_login_protocol_scheme">fb1178697846105714</string>
+    <string name="facebook_client_token">5404a4cd2eed718f3bf3d791be2b2b60</string>
+    <string name="channel_name">1</string>
+    <string name="channel_description">description</string>
+    <string name="time_loading_ads">5000</string>
+    <string name="ads_loading">Loading...</string>
+</resources>

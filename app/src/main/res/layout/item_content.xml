@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_content_wrapper"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/margin_padding_size_small"
+    android:paddingRight="@dimen/margin_padding_size_small">
+
+    <ImageView
+        android:id="@+id/item_content_logo"
+        android:layout_width="@dimen/logo"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:layout_margin="@dimen/margin_padding_size_medium"
+        android:layout_centerVertical="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@+id/item_content_type_image"
+        android:layout_toEndOf="@+id/item_content_logo"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/item_content_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_content_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:visibility="gone"
+            android:maxLines="1" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/item_content_type_image"
+        android:layout_width="@dimen/icon_size_medium"
+        android:layout_height="@dimen/icon_size_medium"
+        android:layout_alignParentRight="true"
+        android:layout_margin="@dimen/margin_padding_size_medium"
+        android:visibility="gone"
+        android:tint="@color/colorAccent" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/item_content_logo"
+        android:background="@color/divider" />
+
+</RelativeLayout>
